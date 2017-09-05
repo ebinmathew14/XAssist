@@ -59,10 +59,7 @@ background-color: rgb(255,255,255);
             <div class="well">
                 <h3 style="line-height:20%;" align="left"><i class="fa fa-home fa-1x" style="line-height:6%;color:#33C"></i>    Contact Us :</h3>              
                 
-                <p style="margin-top:10%;line-height:35%" align="left">Kevin Kuriakose  : +918111875721</p>
-                <p style="margin-top:6%;line-height:35%" align="left">Ebin Mathew      : +919400873919</p>
-                <p style="margin-top:6%;line-height:35%" align="left">Darshan Siby     : +919496825002</p>
-                
+         
             </div>
         </div>
         <div class="col-sm-4">
